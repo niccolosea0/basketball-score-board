@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: '60s Scoreboard', sans-serif;
+    background: #1B244A;
+}
+h3 {
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    border-radius: 13px;
+    padding: 30px 35px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    font-family: '60s Scoreboard', sans-serif;
+    background: none;
+    border: 1px solid #9AABD8;
+    border-radius: 4px;
+    color: #9AABD8;
+    padding: 8px 6px;
+    margin: 4px 2px;
+}
